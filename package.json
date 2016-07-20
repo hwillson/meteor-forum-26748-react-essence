@@ -1,0 +1,16 @@
+{
+  "name": "meteor-react-quickstart",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.3",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-essence": "^1.0.10"
+  },
+  "devDependencies": {
+    "less": "^2.7.1"
+  }
+}
